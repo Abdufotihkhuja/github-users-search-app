@@ -1,0 +1,38 @@
+export default {
+    login: "Abdufotihkhuja",
+    id: 74786223,
+    node_id: "MDQ6VXNlcjc0Nzg2MjIz",
+    avatar_url: "https://avatars.githubusercontent.com/u/74786223?v=4",
+    gravatar_id: "",
+    url: "https://api.github.com/users/Abdufotihkhuja",
+    html_url: "https://github.com/Abdufotihkhuja",
+    followers_url: "https://api.github.com/users/Abdufotihkhuja/followers",
+    following_url:
+        "https://api.github.com/users/Abdufotihkhuja/following{/other_user}",
+    gists_url: "https://api.github.com/users/Abdufotihkhuja/gists{/gist_id}",
+    starred_url:
+        "https://api.github.com/users/Abdufotihkhuja/starred{/owner}{/repo}",
+    subscriptions_url:
+        "https://api.github.com/users/Abdufotihkhuja/subscriptions",
+    organizations_url: "https://api.github.com/users/Abdufotihkhuja/orgs",
+    repos_url: "https://api.github.com/users/Abdufotihkhuja/repos",
+    events_url: "https://api.github.com/users/Abdufotihkhuja/events{/privacy}",
+    received_events_url:
+        "https://api.github.com/users/Abdufotihkhuja/received_events",
+    type: "User",
+    site_admin: false,
+    name: "Abdufotihkhuja",
+    company: null,
+    blog: "",
+    location: null,
+    email: null,
+    hireable: null,
+    bio: "I am a student of TURIN POLYTECHNIC UNIVERSITY IN TASHKENT. I am a Front-end (React.js) Web developer . ",
+    twitter_username: null,
+    public_repos: 32,
+    public_gists: 0,
+    followers: 1,
+    following: 1,
+    created_at: "2020-11-20T16:38:42Z",
+    updated_at: "2022-08-29T05:32:44Z",
+};
